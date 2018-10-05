@@ -1,6 +1,6 @@
 # React Practice App
 
-##### This app is a practice application for React and Redux development
+### This app is a practice application for React and Redux development
  
 This app shows a responsive display that changes based on actions.
 
